@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Навигатор ДОД РТ</string>
+    <string name="err_msg_name">Некорректно введены данные</string>
+    <string-array name="territory">
+        <item>Агрызский</item>
+        <item>Азнакаевский</item>
+        <item>Аксубаевский</item>
+        <item>Актанышский</item>
+        <item>Алексеевский</item>
+        <item>Алькеевский</item>
+        <item>Альметьевский</item>
+        <item>Апастовский</item>
+        <item>Арский</item>
+        <item>Атнинский</item>
+        <item>Бавлинский</item>
+        <item>Балтасинский</item>
+        <item>Бугульминский</item>
+        <item>Буинский</item>
+        <item>Верхнеуслонский</item>
+        <item>Высокогорский</item>
+        <item>Дрожжановский</item>
+        <item>Елабужский</item>
+        <item>Заинский</item>
+        <item>Зеленодольский</item>
+        <item>Кайбицкий</item>
+        <item>Камско-Устьинский</item>
+        <item>Кукморский</item>
+        <item>Лаишевский</item>
+        <item>Лениногорский</item>
+        <item>Мамадышский</item>
+        <item>Менделеевский</item>
+        <item>Мензелинский</item>
+        <item>Муслюмовский</item>
+        <item>Нижнекамский</item>
+        <item>Новошешминский</item>
+        <item>Нурлатский</item>
+        <item>Пестречинский</item>
+        <item>Рыбно-Слободский</item>
+        <item>Сабинский</item>
+        <item>Сармановский</item>
+        <item>Спасский</item>
+        <item>Тетюшский</item>
+        <item>Тукаевский</item>
+        <item>Тюлячинский</item>
+        <item>Черемшанский</item>
+        <item>Чистопольский</item>
+        <item>Ютазинский</item>
+        <item>г.Набережные Челны</item>
+        <item>г.Казань Городские УДО</item>
+        <item>г.Казань Авиастроительный</item>
+        <item>г.Казань Вахитовский</item>
+        <item>г.Казань Кировский</item>
+        <item>г.Казань Московский</item>
+        <item>г.Казань Ново-Савиновский</item>
+        <item>г.Казань Приволжский</item>
+        <item>г.Казань Советский</item>
+    </string-array>
+
+    <string-array name="age1">
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+    </string-array>
+
+    <string-array name="form">
+        <item>Программы</item>
+        <item>Мероприятия</item>
+    </string-array>
+
+
+</resources>
